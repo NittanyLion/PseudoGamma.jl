@@ -3,7 +3,7 @@ using Test
 using Aqua
 
 
-Aqua.test_all( Grumps; ambiguities=(recursive=false))
+Aqua.test_all( PseudoGamma; ambiguities=(recursive=false))
 
 
 @testset "PseudoGamma.jl" begin
