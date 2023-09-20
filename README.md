@@ -7,8 +7,8 @@
 <!-- [![Code Style: Blue](https://img.shields.io/badge/code%20style-blue-4495d1.svg)](https://github.com/invenia/BlueStyle) -->
 
 
-Defines the following Pseudo Gamma functions:
-*   `HadamardGamma`
-*   `LuschnyFactorial`
+Defines the following [Pseudo Gamma](https://en.wikipedia.org/wiki/Pseudogamma_function) functions:
+*   [`HadamardGamma`](https://en.wikipedia.org/wiki/Hadamard%27s_gamma_function)
+*   [`LuschnyFactorial`](https://en.wikipedia.org/wiki/Pseudogamma_function)
 
 For convenience, it also provides the functions `EulerGamma` and `EulerDiGamma`, which map directly to the `gamma` and `digamma` functions of the `SpecialFunctions` package.
