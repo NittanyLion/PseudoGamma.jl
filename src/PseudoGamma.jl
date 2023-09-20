@@ -1,5 +1,10 @@
 module PseudoGamma
 
-# Write your package code here.
+using SpecialFunctions
+
+
+include( "Euler.jl" )
+include( "Hadamard.jl" )
+include( "Luschny.jl" )
 
 end
