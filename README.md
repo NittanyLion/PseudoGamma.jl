@@ -8,7 +8,7 @@
 
 
 Defines the following Pseudo Gamma functions:
-*   HadamardGamma
-*   LuschnyFactorial
+*   `HadamardGamma`
+*   `LuschnyFactorial`
 
 For convenience, it also provides the functions `EulerGamma` and `EulerDiGamma`, which map directly to the `gamma` and `digamma` functions of the `SpecialFunctions` package.
